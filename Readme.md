@@ -22,14 +22,9 @@ Grape leaf diseases cause significant damage and economic losses in agriculture.
 Install Dependencies: Create a Python virtual environment and install the required libraries:
 
 bash
-Copy code
 python -m venv env
 source env/bin/activate  # On Windows: .\env\Scripts\activate
 pip install -r requirements.txt
-
-Prepare the Dataset:
-Download the dataset from here.
-Extract the dataset into the project directory.
 
 Run the Notebook: Open CNN_leaf_disease_detection_coloured.ipynb in Jupyter Notebook or any IDE that supports notebooks, and execute the cells to:
 Train the CNN model.
