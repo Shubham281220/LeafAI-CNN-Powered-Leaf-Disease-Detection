@@ -1,4 +1,3 @@
-markdown
 # LeafAI: CNN Powered Leaf Disease Detection
 
 This project implements a deep learning-based approach to detect and classify grape leaf diseases. By employing a custom Convolutional Neural Network (CNN), it identifies diseases such as Black Rot, Esca, Phylloxera, and others, helping farmers automate early detection for improved yield and quality.
